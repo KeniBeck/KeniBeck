@@ -43,6 +43,7 @@ Plataforma gubernamental para la gestión de permisos municipales, multas de tr�
 📚 API Docs: https://api.tuciudaddigital.com/api/docs
 
 🔗 Repository: https://github.com/KeniBeck/CiviGest.git
+
 ---
 
 ### 🎓 Educational Assistant Platform
@@ -54,6 +55,7 @@ Plataforma para educadores con frontend en React, backend en NestJS e integraci�
 🌐 Production: https://www.mentora.ameritecgt.com
 
 🔗 Repository: https://github.com/KeniBeck/prof-gpt.git
+
 ---
 
 ## 💻 Tech Stack
@@ -96,14 +98,6 @@ Plataforma para educadores con frontend en React, backend en NestJS e integraci�
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/deyler-andres-mena-varela-94a851324)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenibeck\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenibeck\&layout=compact\&theme=tokyonight)
 
 ---
 
