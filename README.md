@@ -32,17 +32,14 @@ Sistema de inventario inteligente con Visión por Computador para la detección 
 
 ---
 
-### 🏛️ Municipal Management Platform
+🥤 **ZAZA LATAM — Cocktail Brand & Digital Platform**
 
-Plataforma gubernamental para la gestión de permisos municipales, multas de tránsito y pagos electrónicos.
+Plataforma digital para ZAZA, una marca de cócteles en lata con sabores únicos. Se desarrolló la experiencia web y se desplegó el sitio en un servidor virtual privado (VPS), incluyendo la configuración del dominio, implementación de HTTPS, optimización SEO y despliegue automatizado mediante GitHub Actions.
 
-**Stack:** React · TypeScript · NestJS · PostgreSQL · AWS EC2
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Nginx · Cloudflare · GitHub Actions
 
-🌐 Production: https://www.tuciudaddigital.com
-
-📚 API Docs: https://api.tuciudaddigital.com/api/docs
-
-🔗 Repository: https://github.com/KeniBeck/CiviGest.git
+🌐 Website: [https://zazalatam.com](https://zazalatam.com)  
+🔗 Repository: https://github.com/KeniBeck/zaza
 
 ---
 
