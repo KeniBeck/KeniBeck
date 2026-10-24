@@ -105,3 +105,33 @@ Plataforma para educadores con frontend en React, backend en NestJS e integraci�
 * Artificial Intelligence & Computer Vision
 * Software Architecture
 * Scalable Backend Systems
+  
+---
+
+### 📊 GitHub Engineering Stats
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/">
+    <img
+      src="https://streak-stats.demolab.com/?user=kenibeck&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
+      alt="GitHub Engineering Streak"
+      width="49%"
+    />
+  </a><img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+    alt="Technology Footprint"
+    width="49%"
+  />
+</p>
+
+<!--## 📈 Contribution Analytics
+
+<p align="center">
+  <a href="https://github.com/kenibeck">
+    <img
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=kenibeck&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
+      alt="Kenibeck GitHub Contribution Analytics"
+      width="98%"
+    />
+  </a>
+</p> --> 
